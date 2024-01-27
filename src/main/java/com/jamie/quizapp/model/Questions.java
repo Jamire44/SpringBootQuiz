@@ -1,4 +1,4 @@
-package com.jamie.quizapp;
+package com.jamie.quizapp.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

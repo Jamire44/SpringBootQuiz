@@ -1,9 +1,7 @@
 package com.jamie.quizapp.service;
 
-import com.jamie.quizapp.Questions;
+import com.jamie.quizapp.model.Questions;
 import com.jamie.quizapp.dao.QuestionDao;
-import jakarta.websocket.server.ServerEndpoint;
-import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,11 +1,9 @@
 package com.jamie.quizapp.controller;
 
 
-import com.jamie.quizapp.Questions;
+import com.jamie.quizapp.model.Questions;
 import com.jamie.quizapp.service.QuestionService;
-import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
